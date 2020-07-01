@@ -1,0 +1,22 @@
+
+###
+GET http://localhost:8080/orgs/530/parents
+
+###
+GET http://localhost:8080/author
+###
+
+###
+GET http://localhost:8080/books/20
+
+###
+GET http://localhost:8080/genre
+
+###
+GET http://localhost:8080/publisher/1
+
+###
+
+GET http://localhost:8080/books/info/4
+
+###
